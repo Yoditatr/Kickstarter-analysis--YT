@@ -22,7 +22,7 @@
 
 ##### Some of the possible analysis can be; 
 
--	Outcome trends through the years: this will help determine which year was the most successful year, what had been done different to get that success. This will help to replicate. 
+-	Outcome trends through the years: this will help determine which year was the most successful year, what had been done different to get that success. It would be used to replicate. 
 -	The dollar amount of successul outcomes pledged by the category, by country and subcategory 
 -	Average percentage funded by category, subcategory, outcome, and country. We can incorporate this table to the onece that are already developed and make sense by combining multiple indicators 
 -	MIN and MAX amount pledged by different criteria such as category, outcome... etc 
