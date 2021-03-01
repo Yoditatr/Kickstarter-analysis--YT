@@ -11,6 +11,9 @@
 
 ![alt text](https://github.com/Yoditatr/Kickstarter-analysis--YT/blob/main/Theater_Outcomes_vs_Launch.png?raw=true)
 
+![alt text](https://github.com/Yoditatr/Kickstarter-analysis--YT/blob/main/Pivot.png?raw=true)
+
+
 ###### The second part of the analysis (please refer sheet 10) we are focusing on subcategory plays to show percentage outcomes based on goals. Though there isn’t much to show a perfect trend we can conclude that the projects with less than $1000 goal have turned a more successful outcome. 
 
 ![alt text](https://github.com/Yoditatr/Kickstarter-analysis--YT/blob/main/Outcomes_vs_Goals.png?raw=true)
