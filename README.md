@@ -7,7 +7,7 @@
 - By how much did we exceed or fall short?
 - What impact does launch dates have on goals? “what impacts does the projected goal have on success and pledges…etc.?
 
-###### For the first part of the analysis we are only focusing on the theater category and it’s outcome by the launch date. As shown in the line chart, it is evident that the month of May is the most effective month to launch a successful campaign. The month June follows a little behind and is also equally a successful month. The least successful month hence is the month of December. This show this a column next to the pivot table is added to show percentage of failed campaigns. Though we can not draw a conclusion, when answering the question of “did it work”? by only basing our analysis on launch period, this perhaps shows a trend for future planning. 
+###### For the first part of the analysis we are only focusing on the theater category and it’s outcome by the launch date. As shown in the line chart, it is evident that the month of May is the most effective month to launch a successful campaign. The month June follows a little behind and is also equally a successful month. The least successful month hence is the month of December. This show this a column next to the pivot table is added to indicate percentage of failed campaigns. Though we can not draw a conclusion, when answering the question of “did it work”? by only basing our analysis on launch period, this perhaps shows a trend for future planning. 
 
 ![alt text](https://github.com/Yoditatr/Kickstarter-analysis--YT/blob/main/Theater_Outcomes_vs_Launch.png?raw=true)
 
